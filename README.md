@@ -13,7 +13,6 @@ Example:
     3      10
      \     /\
       1   5  9
-
 ```
 
 Clone the repository
