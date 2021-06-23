@@ -28,7 +28,7 @@ local Tree = require(game:GetService("ReplicatedStorage").BinarySearchTree);
 
 Example -
 
-```
+```lua
 local Tree = require(game:GetService("ReplicatedStorage").BinarySearchTree)
 
 local tree1 = Tree.new(); -- declaring bst
